@@ -1,0 +1,6 @@
+[submodule "笔记/笔记"]
+	path = 笔记/笔记
+	url = git@github.com:ZachariahChu/obsidian_notes.git
+[submodule "笔记/obsidian_notes"]
+	path = 笔记/obsidian_notes
+	url = git@github.com:ZachariahChu/obsidian_notes.git
